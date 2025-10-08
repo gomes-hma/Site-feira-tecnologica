@@ -28,3 +28,6 @@ Site para a feira tecnologica desenvolvido por multiplas pessoas
 ## 6. Resolva conflitos
 - Às vezes, podem surgir conflitos se várias pessoas alterarem o mesmo trecho de código.
 - Nesses casos, você precisará escolher qual versão do código é a correta para resolver o conflito antes de mesclar
+
+## link para documento com algumas instruções básocas para o desenvolvimento do site
+https://docs.google.com/document/d/10tmbw_scA9jMdqNIp2kaXctSpQAGebLiYzVuWIp8xvk/edit?usp=sharing
