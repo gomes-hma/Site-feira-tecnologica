@@ -3,10 +3,10 @@ Site para a feira tecnologica desenvolvido por multiplas pessoas
 
 
 # Pra trabalhar em conjunto:
-- 1. Crie um repositório e convide colaboradores:
++ 1. Crie um repositório e convide colaboradores:
 No GitHub, crie um repositório para o seu projeto. 
 Vá nas configurações do repositório e adicione colaboradores ou equipes para que eles tenham acesso. 
-- 2. Use branches para o desenvolvimento:
+* 2. Use branches para o desenvolvimento:
 Cada membro deve clonar o repositório para o seu computador local. 
 Crie uma branch separada para cada nova funcionalidade ou correção. 
 Trabalhe nas suas branches locais, fazendo commits para registrar suas alterações. 
